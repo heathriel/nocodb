@@ -97,7 +97,7 @@
     "lodash": "^4.17.19",
     "lru-cache": "^6.0.0",
     "mailersend": "^1.1.0",
-    "minio": "^7.0.18",
+    "minio": "^7.1.1",
     "mkdirp": "^0.5.5",
     "morgan": "^1.10.0",
     "mssql": "^6.2.0",
