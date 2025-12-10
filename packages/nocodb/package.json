@@ -128,7 +128,7 @@
     "slash": "^3.0.0",
     "socket.io": "^4.4.1",
     "sqlite3": "5.1.2",
-    "tedious": "^15.0.0",
+    "tedious": "^16.6.1",
     "tinycolor2": "^1.4.2",
     "twilio": "^3.55.1",
     "unique-names-generator": "^4.3.1",
